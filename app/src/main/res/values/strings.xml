@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Thea Widget</string>
+    <string name="appwidget_text">Thea</string>
+    <string name="configure">Choose widget type</string>
+    <string name="add_widget">Add widget</string>
+    <string name="rawr">Rawr</string>
+    <string name="quack">Quack</string>
+</resources>
